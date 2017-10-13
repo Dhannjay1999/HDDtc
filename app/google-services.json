@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914274707005",
+    "firebase_url": "https://hddtc-4c79d.firebaseio.com",
+    "project_id": "hddtc-4c79d",
+    "storage_bucket": "hddtc-4c79d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914274707005:android:59f78da0e694ba23",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.hddtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914274707005-vh0cpge8mi039kl47k40ah58t4nosur3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.hddtc",
+            "certificate_hash": "0c2c6f0df7f239a958a5246791ebe3d9c08ef804"
+          }
+        },
+        {
+          "client_id": "914274707005-dml96vjuirqmj1dph89c38jcg7t0s5uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-F9KUjdk4hx82na6jVjY8EqHunyDIZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914274707005-dml96vjuirqmj1dph89c38jcg7t0s5uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
